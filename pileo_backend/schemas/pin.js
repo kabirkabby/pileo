@@ -49,7 +49,7 @@ export default {
         },
         {
             name: 'comments',
-            title: 'comments',
+            title: 'Comments',
             type: 'array',
             of: [{type: 'comment'}]
         },
